@@ -1,0 +1,6 @@
+What is context switching?,The repeted jumping of instructions between current CPU operations and the Interrupt Service Routine,The repeted jumping of instructions between RAM and Interrupt Service Routine,The repeted jumping of instructions between virtual memory and RAM
+What is an interrupt?,A signal sent from an input or output device to the CPU,A signal sent from an input or output device to the Interrupt Service Routine ,
+What is polling?,Regular checks from the CPU for instructions from input and output devices ,A signal sent from an input or output device to the CPU,
+What is an Interrupt Service Routine (ISP)?,A set of instructions carried out by the CPU for an interrupt,The repeted jumping of instructions between RAM and Interrupt Service Routine,The result of an interrupt being processed
+Which is not a problem that polling causes?,,,
+Which is not a problem caused by interrupts?,The CPU may not respond quickly enough,Stack Overflow,

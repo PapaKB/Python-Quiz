@@ -1,0 +1,11 @@
+What does BIOS stand for?,Basic Input Output system,Basic Input Opearting System,Binary Input Output System
+What comes earliest in the BIOS sequence?,Reset Command,POST checks,Jump command
+What does POST stand for?,Power On Self Test,Program On Self Test,Power On Start Test
+What is contained in the boot sector?,Master Boot Record,Primary Boot Record,Primary Boot Sector
+Where is the BIOS stored?,ROM,RAM,Hard Disk
+Which of these is the same as the boot file?,Boot Loader,Boot Sector,Bootable Drive
+Which of these is the same as the bootstrap?,Bootable Drive,Boot Sector,Boot Loader
+How is the safe mode turned on?,Press F8,Press F9,Press F5
+Which location are beep codes not emitted from?,Beeper on graphics card,Internal Speakers,Beeper on the motherboard
+What is the check process called that occurs during initialisation?,POST,System checks,Hardware Check
+What is the purpose of the boot file?,To store personal settings for the operating system,To store the BIOS,To store the boot sector
